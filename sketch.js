@@ -3,7 +3,7 @@ var backColor
 var score = 0 
 let scoreFont; 
 let img
-var ts = "Ecapse the Corn Maze";
+var ts = "Escape the Corn Maze";
 var avatarX = 235  
 var avatarY = 555
 var avatarD = 25
