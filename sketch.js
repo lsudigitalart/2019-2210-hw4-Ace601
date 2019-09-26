@@ -16,8 +16,8 @@ let move=5
 let vertexWidth = [];
 let vertexHeight =[];
 //let vertex = [];
-let ellipseX = 235
-let ellipseY = 555
+let ellipseX = 485
+let ellipseY = 535
 let ellipseD = 25
 
 //function preload(){
